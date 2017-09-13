@@ -1,0 +1,28 @@
+{
+  "name": "js-css-extractor",
+  "version": "1.0.0",
+  "description": "extract js&css from html and compress, merge, insert back to html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitjjj/js-css-extractor.git"
+  },
+  "keywords": [
+    "js",
+    "css",
+    "html",
+    "extract"
+  ],
+  "author": "bitjjj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bitjjj/js-css-extractor/issues"
+  },
+  "homepage": "https://github.com/bitjjj/js-css-extractor#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2"
+  }
+}
